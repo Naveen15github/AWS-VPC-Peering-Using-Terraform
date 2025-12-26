@@ -15,7 +15,7 @@ This hands-on lab is implemented entirely using Terraform to automate the infras
 
 ---
 
-![Alt Text](image_url_or_path)
+![Alt Text](https://github.com/Naveen15github/AWS-VPC-Peering-Using-Terraform/blob/c38ee237a65e55d8414f9494229660356e72243e/Gemini_Generated_Image_x6hvbgx6hvbgx6hv.png)
 
 ## Prerequisites
 
@@ -293,14 +293,14 @@ ping 10.1.1.X   # Replace with EC2-B private IP
 * Successful ping confirms **VPC peering works**
 
 ---
-![Alt Text](image_url_or_path)
-![Alt Text](image_url_or_path)
-![Alt Text](image_url_or_path)
-![Alt Text](image_url_or_path)
-![Alt Text](image_url_or_path)
-![Alt Text](image_url_or_path)
-![Alt Text](image_url_or_path)
-![Alt Text](image_url_or_path)
+![Alt Text](https://github.com/Naveen15github/AWS-VPC-Peering-Using-Terraform/blob/c38ee237a65e55d8414f9494229660356e72243e/Screenshot%20(262).png)
+![Alt Text](https://github.com/Naveen15github/AWS-VPC-Peering-Using-Terraform/blob/c38ee237a65e55d8414f9494229660356e72243e/Screenshot%20(263).png)
+![Alt Text](https://github.com/Naveen15github/AWS-VPC-Peering-Using-Terraform/blob/c38ee237a65e55d8414f9494229660356e72243e/Screenshot%20(264).png)
+![Alt Text](https://github.com/Naveen15github/AWS-VPC-Peering-Using-Terraform/blob/c38ee237a65e55d8414f9494229660356e72243e/Screenshot%20(265).png)
+![Alt Text](https://github.com/Naveen15github/AWS-VPC-Peering-Using-Terraform/blob/c38ee237a65e55d8414f9494229660356e72243e/Screenshot%20(266).png)
+![Alt Text](https://github.com/Naveen15github/AWS-VPC-Peering-Using-Terraform/blob/c38ee237a65e55d8414f9494229660356e72243e/Screenshot%20(267).png)
+![Alt Text](https://github.com/Naveen15github/AWS-VPC-Peering-Using-Terraform/blob/c38ee237a65e55d8414f9494229660356e72243e/Screenshot%20(268).png)
+![Alt Text](https://github.com/Naveen15github/AWS-VPC-Peering-Using-Terraform/blob/c38ee237a65e55d8414f9494229660356e72243e/Screenshot%20(269).png)
 
 
 ## Summary
